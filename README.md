@@ -6,8 +6,15 @@ Desenvolvedor focado em construir soluções eficientes.
 
 ### 📊 Status de Desenvolvedor
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttaxxvo&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="Estatísticas" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttaxxvo&layout=compact&langs_count=7&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=ffffff" alt="Linguagens" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusttaxxvo&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=gusttaxxvo&theme=github_dark" />
+</div>
+
+---
+
+### 📈 Sequência de Commits (Streak)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusttaxxvo&theme=dark&background=000000&fire=ffffff&ring=ffffff&currStreakLabel=ffffff" />
 </div>
 
 ---
