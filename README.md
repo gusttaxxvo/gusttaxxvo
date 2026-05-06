@@ -6,8 +6,8 @@ Desenvolvedor focado em construir soluções eficientes.
 
 ### 🏆 Estatísticas Alvinegras
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gusttaxxvo&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gusttaxxvo&theme=dark&background=000000&fire=ffffff&ring=ffffff&currStreakLabel=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttaxxvo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttaxxvo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
