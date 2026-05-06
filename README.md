@@ -7,7 +7,7 @@ Desenvolvedor focado em construir soluções eficientes.
 ### 📊 Status de Desenvolvedor
 <div align="center">
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusttaxxvo&theme=github_dark" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=gusttaxxvo&theme=github_dark" />
+ 
 </div>
 
 ---
