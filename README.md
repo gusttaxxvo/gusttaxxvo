@@ -1,6 +1,6 @@
 # 🦅 Gustavo Silva | Full Stack Developer
 
-Desenvolvedor focado em construir soluções eficientes e apaixonado pela cultura Open Source. 
+Desenvolvedor focado em construir soluções eficientes. 
 
 ---
 
@@ -12,7 +12,7 @@ Desenvolvedor focado em construir soluções eficientes e apaixonado pela cultur
 
 ---
 
-### 💻 Stack Tecnológica (No Grau!)
+### 💻 Stack Tecnológica-No Grau!
 <div align="left">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
