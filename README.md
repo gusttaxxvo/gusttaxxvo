@@ -27,8 +27,7 @@ Desenvolvedor focado em construir soluções eficientes e apaixonado pela cultur
 
 ### 🛠️ Projetos em Desenvolvimento
 * **Vizzo**: Sistema de gestão para condomínios com marketplace de serviços.
-* **UltraPixel**: Hub de jogos clássicos (Snake & Tetris) desenvolvidos em JavaScript.
-* **Spotify UI**: Recriação de interface moderna utilizando Python e bibliotecas gráficas.
+
 
 ---
 
